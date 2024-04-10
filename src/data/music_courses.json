@@ -1,0 +1,94 @@
+{
+    "courses":[
+        {
+            "id":1,
+            "title":"Music Theory",
+            "description":"This course will introduce you to the basics of music theory. You will learn about the different musical instruments, how to play them, and how to perform them.",
+            "price":99.99,
+            "instructor":"John Doe",
+            "isFeatured":true,
+            "image":"https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        },
+        {
+            "id":2,
+            "title":"Introduction to Python Programming",
+            "description":"Learn the fundamentals of Python programming language. This course covers basic syntax, data types, control structures, and functions.",
+            "price":79.99,
+            "instructor":"Jane Smith",
+            "isFeatured":true,
+            "image":"https://images.pexels.com/photos/20787/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+            "id":3,
+            "title":"Graphic Design Essentials",
+            "description":"Discover the essential principles and tools used in graphic design. This course covers layout, typography, color theory, and design software.",
+            "price":129.99,
+            "instructor":"Emily Johnson",
+            "isFeatured":false,
+            "image":"https://images.pexels.com/photos/1095552/pexels-photo-1095552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+            "id":4,
+            "title":"Introduction to Machine Learning",
+            "description":"Get started with machine learning and explore its applications. This course covers basic algorithms, model evaluation, and real-world examples.",
+            "price":149.99,
+            "instructor":"Michael Brown",
+            "isFeatured":false,
+            "image":"https://images.pexels.com/photos/3965477/pexels-photo-3965477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+            "id":5,
+            "title":"Photography Masterclass",
+            "description":"Unlock the secrets of photography with this comprehensive masterclass. Learn about composition, lighting, camera settings, and post-processing.",
+            "price":89.99,
+            "instructor":"David Williams",
+            "isFeatured":true,
+            "image":"https://images.pexels.com/photos/1028997/pexels-photo-1028997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+            "id":6,
+            "title":"Web Development Bootcamp",
+            "description":"Become a proficient web developer with this intensive bootcamp. Learn HTML, CSS, JavaScript, and build dynamic web applications.",
+            "price":199.99,
+            "instructor":"Alex Turner",
+            "isFeatured":true,
+            "image":"https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+            "id":7,
+            "title":"Digital Marketing Fundamentals",
+            "description":"Learn the core concepts and strategies of digital marketing. This course covers SEO, social media marketing, email marketing, and analytics.",
+            "price":119.99,
+            "instructor":"Sophia Lee",
+            "isFeatured":false,
+            "image":"https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+            "id":8,
+            "title":"Yoga and Meditation for Beginners",
+            "description":"Discover the benefits of yoga and meditation for physical and mental well-being. This course covers basic poses, breathing techniques, and mindfulness practices.",
+            "price":69.99,
+            "instructor":"Amanda White",
+            "isFeatured":false,
+            "image":"https://images.pexels.com/photos/3823492/pexels-photo-3823492.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+            "id":9,
+            "title":"Financial Planning and Investment Strategies",
+            "description":"Learn how to manage your finances effectively and make informed investment decisions. This course covers budgeting, saving, investing, and retirement planning.",
+            "price":159.99,
+            "instructor":"Robert Johnson",
+            "isFeatured":true,
+            "image":"https://images.pexels.com/photos/1649787/pexels-photo-1649787.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+            "id":10,
+            "title":"Creative Writing Workshop",
+            "description":"Unlock your creativity and express yourself through writing. This workshop covers various genres, techniques, and exercises to improve your writing skills.",
+            "price":109.99,
+            "instructor":"Sarah Adams",
+            "isFeatured":true,
+            "image":"https://images.pexels.com/photos/424916/pexels-photo-424916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        }
+    ]
+}
